@@ -32,7 +32,7 @@ JupyterLab is a web-based user interface for [Project Jupyter](https://jupyter.o
 conda install -c conda-forge jupyterlab
 ```
 
-It will prompt you with a confirmation of the packages you are about to install, just type `Y` or press `Enter`. Now you have jupyter lab installed!
+It will prompt you with a confirmation of the packages you are about to install, just type `Y` and press `Enter`. Now you have jupyter lab installed!
 
 You can run jupyterLab by typing
 
