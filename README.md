@@ -40,4 +40,4 @@ You can run jupyterLab by typing
 jupyter-lab
 ```
 
-It will open a local instance in `port 8888` by default that you can access from your browser
+It will open a local instance in `port 8888` by default that you can access from your browser (`localhost:8888`)
