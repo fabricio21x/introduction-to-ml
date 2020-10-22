@@ -2,7 +2,7 @@
 
 Here we will learn about the basic tools used in most machine learning projects.
 
-## Getting started
+## Local setup
 
 ### 1. Install Anaconda
 
